@@ -3,7 +3,6 @@
     <imooc-header></imooc-header>
     <router-view></router-view>
     <imooc-footer></imooc-footer>
-    <imooc-footer></imooc-footer>
   </div>
 </template>
 <script>
